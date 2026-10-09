@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\KHOA\\source\\repos\\LapTrinhTrucQuan\\BTLT4\\CafeStatusDemo\\CafeStatusDemo.csproj",
-      "projectName": "CafeStatusDemo",
-      "projectPath": "C:\\Users\\KHOA\\source\\repos\\LapTrinhTrucQuan\\BTLT4\\CafeStatusDemo\\CafeStatusDemo.csproj",
+      "projectUniqueName": "C:\\Users\\KHOA\\source\\repos\\LapTrinhTrucQuan\\BTLT5\\Câu1\\Câu1.csproj",
+      "projectName": "Câu1",
+      "projectPath": "C:\\Users\\KHOA\\source\\repos\\LapTrinhTrucQuan\\BTLT5\\Câu1\\Câu1.csproj",
       "packagesPath": "C:\\Users\\KHOA\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\KHOA\\source\\repos\\LapTrinhTrucQuan\\BTLT4\\CafeStatusDemo\\obj\\",
+      "outputPath": "C:\\Users\\KHOA\\source\\repos\\LapTrinhTrucQuan\\BTLT5\\Câu1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,7 +33,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -78,7 +77,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.400/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",

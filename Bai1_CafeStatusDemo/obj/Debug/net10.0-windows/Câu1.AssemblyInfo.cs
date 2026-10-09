@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CafeStatusDemo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Câu1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71672bcd9e420dc74ec3d9a5383416c2569c606a")]
-[assembly: System.Reflection.AssemblyProductAttribute("CafeStatusDemo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CafeStatusDemo")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdf20c2edbdc605a73e372ba18fdca351f982bae")]
+[assembly: System.Reflection.AssemblyProductAttribute("Câu1")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Câu1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
